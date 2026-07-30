@@ -1,0 +1,6 @@
+{
+  "name": "Bienestar y Cuidado Femenino - Tienda Colombia & Dropi",
+  "description": "Tienda virtual de bienestar y cuidado personal femenino en Colombia con despacho directo por Dropi con Pago Contra Entrega.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
